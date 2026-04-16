@@ -53,5 +53,6 @@ def saludo():
 ```
 
 | Columna A | Columna B | Columna C |
+| ---| --- | --- |
 | Izquierda | Centro | Derecha | 
 | Dato 1 | Dato 2 | Dato 3 |
