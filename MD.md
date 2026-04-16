@@ -50,6 +50,7 @@ Bloque de código con lenguaje:
 ```python
 def saludo():
     print("Hola Mundo")
+```
 
 Columna A,Columna B,Columna C
 Izquierda,Centro,Derecha
